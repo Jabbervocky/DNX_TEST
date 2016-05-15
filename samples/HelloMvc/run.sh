@@ -1,2 +1,2 @@
 #!/bin/sh
-dnx -p project.json web
+exec dnx -p project.json web
